@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/guest1/AndroidStudioProjects/Clever_coffe/app/src/main/res/drawable/dlya_blud.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/guest1/AndroidStudioProjects/Clever_coffe/app/src/main/res/drawable/krujok.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/guest1/AndroidStudioProjects/Clever_coffe/app/src/main/res/drawable/rectangle_korich.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/guest1/AndroidStudioProjects/Clever_coffe/app/src/main/res/layout/activity_bar_kuhnya.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/guest1/AndroidStudioProjects/Clever_coffe/app/src/main/res/layout/activity_coffee_for_free.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/guest1/AndroidStudioProjects/Clever_coffe/app/src/main/res/layout/activity_confirm.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/guest1/AndroidStudioProjects/Clever_coffe/app/src/main/res/layout/activity_confirm_qrcode.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/guest1/AndroidStudioProjects/Clever_coffe/app/src/main/res/layout/activity_espresso.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/guest1/AndroidStudioProjects/Clever_coffe/app/src/main/res/layout/activity_home_page.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/guest1/AndroidStudioProjects/Clever_coffe/app/src/main/res/layout/activity_main.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/guest1/AndroidStudioProjects/Clever_coffe/app/src/main/res/layout/activity_panne.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/guest1/AndroidStudioProjects/Clever_coffe/app/src/main/res/layout/activity_registration.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/guest1/AndroidStudioProjects/Clever_coffe/app/src/main/res/layout/activity_zavtraki.xml" value="0.33967391304347827" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

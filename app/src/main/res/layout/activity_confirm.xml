@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ConfirmActivity"
+    android:background="@color/svetliy">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/pic"
+            android:src="@drawable/backback" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="180dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sms"
+            android:textColor="@color/black"
+            android:textSize="@dimen/size36"
+            android:gravity="center"/>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout4"
+        android:layout_marginTop="100dp">
+
+        <Button
+            android:layout_width="250dp"
+            android:layout_height="60dp"
+            android:background="@drawable/krujok"
+            android:backgroundTint="@color/bejeviy"
+            android:text="@string/codee"
+            android:textAllCaps="false"
+            android:textSize="@dimen/size27" />
+
+        <Button
+            android:layout_width="250dp"
+            android:layout_height="70dp"
+            android:background="@drawable/krujok"
+            android:backgroundTint="@color/bejeviy"
+            android:text="@string/poluchit"
+            android:textAllCaps="false"
+            android:textSize="@dimen/size20"
+            android:layout_marginVertical="30dp"/>
+
+        <Button
+            android:layout_width="250dp"
+            android:layout_height="60dp"
+            android:background="@drawable/krujok"
+            android:backgroundTint="@color/bejeviy"
+            android:text="@string/dalee"
+            android:textAllCaps="false"
+            android:textSize="@dimen/size27" />
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
