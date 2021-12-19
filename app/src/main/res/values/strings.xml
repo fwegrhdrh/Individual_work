@@ -46,4 +46,8 @@
     <string name="amer">Американо</string>
     <string name="raf">Раф</string>
     <string name="top">Топ продаж</string>
+    <string name="free">Бесплатно</string>
+    <string name="akcii">Акции</string>
+    <string name="qr_code">QR code</string>
+    <string name="menu">Menu</string>
 </resources>

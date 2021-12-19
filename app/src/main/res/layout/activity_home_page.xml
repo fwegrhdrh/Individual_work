@@ -56,7 +56,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/top"
+            android:text="@string/akcii"
             android:textColor="@color/black"
             android:textSize="@dimen/size16"
             android:textStyle="bold" />
@@ -105,18 +105,19 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:contentDescription="@string/pic"
-            android:src="@drawable/krilya" />
+            android:src="@drawable/espresso" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/krl"
+            android:text="@string/espresso"
             android:textColor="@color/white"
             android:textSize="@dimen/size16" />
 
     </LinearLayout>
 
     <LinearLayout
+        android:id="@+id/qrcode"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="40dp"
@@ -132,12 +133,12 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:contentDescription="@string/pic"
-            android:src="@drawable/raff" />
+            android:src="@drawable/qrr" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/raf"
+            android:text="@string/qr_code"
             android:textColor="@color/white"
             android:textSize="@dimen/size16" />
 
@@ -159,12 +160,12 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:contentDescription="@string/pic"
-            android:src="@drawable/espresso" />
+            android:src="@drawable/podarok" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/esspro"
+            android:text="@string/free"
             android:textColor="@color/white"
             android:textSize="@dimen/size16" />
 
@@ -186,12 +187,12 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:contentDescription="@string/pic"
-            android:src="@drawable/americano" />
+            android:src="@drawable/menu" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/amer"
+            android:text="@string/menu"
             android:textColor="@color/white"
             android:textSize="@dimen/size16" />
 
